@@ -1,8 +1,21 @@
 # Horiseon-Refactor-EMR
 
+**Overview**
+The objective on this was to refactor a set of HTML and CSS files.
+
+**Revisions**
+Broken Links Repaired
+Div tags replaced with semantic tags
+CSS restructured to allow for easier reference
+Redundant CSS sections were removed
+Comments added to allow for easier reference
+
+
 **Links**
 1- https://github.com/ERion42/Horiseon-Refactor-EMR
+
 2- https://erion42.github.io/Horiseon-Refactor-EMR/
+
 
 **Instructions to follow**
 
@@ -14,9 +27,9 @@ Be sure to review the [Homework Guide](./Homework-Guide/README.md) before you st
 
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible. 
 
-> **Important**: When working with someone else's code, you should adhere to the **Scout Rule**&mdash;always leave the code a little cleaner than when you found it.
+> **Important**: When working with someone else's code, you should adhere to the **Scout Rule**-always leave the code a little cleaner than when you found it.
 
-An increasingly important consideration for businesses, web **accessibility** ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. Accessibility is good for business&mdash;for one thing, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
+An increasingly important consideration for businesses, web **accessibility** ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. Accessibility is good for business- for one thing, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
 
 Accessibility can include complex requirements, but your tech lead has given you a small list of specific criteria for this project. These criteria are documented in the Acceptance Criteria section.
 
