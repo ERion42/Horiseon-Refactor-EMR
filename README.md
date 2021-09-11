@@ -23,7 +23,5 @@ The objective on this was to refactor a set of HTML and CSS files.
 
 
 Screenshot
-```
-![Screenshot for the single page of code](/assets/images/HoriseonPreview.png)
 
-```
+![Screenshot for the single page of code](/assets/images/HoriseonPreview.png)
